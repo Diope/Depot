@@ -1,28 +1,6 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Finished Michael Hartl's Rails Tutorial and was recommended to go through Agile Web Development with Rails 4.
+After I complete this I plan to go through Hartl's tutorial again. I supplement my rails learning by learning Ruby
+with Pragmatic Studio's Ruby programming screencasts and their book on 1.9 & 2.0. Right now I'm studying Rails/Ruby
+on average of 5 hours daily. Unfortunately I don't have more free time or I would do like 10hrs a day.
